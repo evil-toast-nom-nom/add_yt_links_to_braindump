@@ -1,8 +1,8 @@
 # add_yt_links_to_braindump
-Add youtube timestamp links to brain dump sections referred to in this video: https://www.youtube.com/watch?v=vBFYI6PaZg4
+Add youtube timestamp links to brain dump sections referred to in this video: https://www.youtube.com/watch?v=vBFYI6PaZg4 (Thanks Andrew Kirby)
 
 
-Now you can more easily navigate the braindump without having to search for a time-stamp in a video. 
+Now you can more easily navigate the braindump without having to search for a time-stamp in a video on youtube. 
 Each section will have it's own, time-stamped link. 
 
 e.g.
